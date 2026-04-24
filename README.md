@@ -4,7 +4,7 @@ And I also own a photography and videography agency<br/>
 I turn ideas into responsive, functional websites using modern tools.<br/>
 Always learning. Always building. 🚀 <br/>
 I make videos about my projects and designs on[instagram](https://www.instagram.com/mrrasiedu)
-And this is my portfolio website [](https://mrrasiedu.netlify.app/)
+And this is my portfolio websiteon the [web](https://mrrasiedu.netlify.app/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Yamoah Kwasi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mrr_Asiedu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Asiedu Yamoah Akwasiu) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Mrr_Asiedu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Yamoah kwasi 5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yamoahkwasi150@gmail.com) 
